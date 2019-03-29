@@ -1,0 +1,49 @@
+h1 {
+    font-family: Arial;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-transform: uppercase;
+    margin-top: 30px;
+    color: purple;
+    
+}
+
+body {
+    display: flex;
+	text-align: center;
+	
+}
+div {
+	display: flex;
+	flex-direction: column;
+    justify-content: center;
+    padding: 10px;
+    margin: 50px;
+	background-color: lavender;
+	text-transform: uppercase;
+    color: purple
+	
+}
+.container {
+	flex-direction: column;
+	text-transform: uppercase;
+}
+
+.column1 {
+	margin: 20px;
+	border: 10px;
+}
+
+img {
+    justify-content: center;
+	padding: 50px;
+}
+
+article {
+
+}
+footer {
+
+}
